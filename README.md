@@ -1,5 +1,5 @@
-pickxu.github.io
-================
+Welcome to Book of Min
+======================
 <h2>Personal website about Pick, Min Xu</h2>
 <img src="http://hdn.xnimg.cn/photos/hdn521/20120907/1145/h_large_d1Om_0573000027301375.jpg" width="400" height="300">
 <ul>Topics include, but not limited to:
